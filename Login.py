@@ -52,6 +52,7 @@ def main():
          print("Login Fail")
     driver = comprar(driver)
     time.sleep(5)
+    print(f'ejecución finalizada')
 
 
 if __name__ == '__main__':
